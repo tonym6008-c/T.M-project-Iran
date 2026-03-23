@@ -1,0 +1,18 @@
+name: T.M-project-Iran
+description: A mobile Flutter application for managing user data and integrating with various backend services.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^latest_version
+  firebase_messaging: ^latest_version
+  http: ^latest_version
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^latest_version
+  json_serializable: ^latest_version
+
+flutter:
+  uses-material-design: true
